@@ -1,0 +1,3 @@
+rootProject.name = "WkCompose"
+include ':app'
+include ':BaseLibrary'
